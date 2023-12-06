@@ -6,7 +6,7 @@
 
   (title_block
     (title "Nano2UNO Adapter 3V3")
-    (date "2023-12-02")
+    (date "2023-12-05")
     (rev "0.0.1")
     (company "Designer: C. M. Bulliner")
     (comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
@@ -1361,9 +1361,9 @@
     (uuid ffb59dc4-6baa-4769-b936-4264652276dd)
   )
 
-  (text "Documentation and source files can be found at https://github.com/CMB27/Nano2UNO-Adapter-3V3."
+  (text "Documentation and source files can be found at\nhttps://github.com/CMB27/Nano2UNO-Adapter-3V3."
     (at 15.24 200.66 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.5 1.5)) (justify left bottom) (href "https://github.com/CMB27/Nano2UNO-Adapter-3V3"))
     (uuid 64d4dc58-57ff-4e1b-b7c6-b597778673fe)
   )
 
