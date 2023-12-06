@@ -69,9 +69,9 @@ Smallest Trace Spacing: __0.2mm__ (7.8mil)
 |------------|---------:|--------------|----------------|---------------------------------|
 | C1, C2     |        2 | Panasonic    | ECEA1HKS100    | 10uF X7R Through-Hole Capacitor |
 | D1         |        1 | Vishay       | SB260S-E3/54   | DO-41 Diode                     |
-| J1         |        1 | Samtec       | ESW-106-33-L-S | 1x6 Socket Header               |
-| J2, J3     |        2 | Samtek       | ESW-108-33-L-S | 1x8 Socket Header               |
-| J4         |        1 | Samtec       | ESW-110-33-L-S | 1x10 Socket Header              |
+| J1, J3     |        2 | Samtec       | ESW-108-33-L-S | 1x8 Socket Header               |
+| J2         |        1 | Samtek       | ESW-110-33-L-S | 1x10 Socket Header              |
+| J4         |        1 | Samtec       | ESW-106-33-L-S | 1x6 Socket Header               |
 | J5, J6     |        2 | Sullins      | PPPC151LFBN-RC	| 1x15 Socket Header              |
 | J7         |        1 | TSW/Samtec   | TSW-103-15-L-D | 2x3 Pin Header                  |
 | J8         |        1 | CUI          | PJ-102A        | 2.0mm ID, 5.5mm OD Barrel Jack  |
