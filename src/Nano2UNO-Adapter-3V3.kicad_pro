@@ -456,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../extras/Nano2UNO-Adapter-3V3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
