@@ -113,7 +113,7 @@ These steps go through soldering each component, starting with the shortest.
    - Place the diode, ensuring that the side with the line closest to it (the cathode) is facing the squarish pad.
    - Bend the diode leads on the backside of the board to ensure the diode remains in place when soldering.
    - Solder the leads to the pads.
-   - Trim the leads using the flush cutters.
+   - Trim the leads using flush cutters.
 
 2. SW1 (Pushbutton Switch)
    - Place the switch; it should stay in place.
@@ -130,12 +130,12 @@ These steps go through soldering each component, starting with the shortest.
    - If you have an Arduino Nano board, place the socket headers on the Nano's pins, then place the socket header pins through the holes on the Nano2UNO circuit board.
      This will ensure your Nano board will line up with the sockets once they are soldered in place.
      If you do not have an Arduino Nano board on hand, place the socket header pins as precisely as you can.
-   - Carfully flip the board over the board, holding the socket headers in place.
+   - Carefully flip the board over the board, holding the socket headers in place.
      This can be difficult; it may be necessary to solder each socket header one at a time.
    - Tack solder the end pins of the socket headers.
    - Check that the socket headers are straight and seated correctly.
      If necessary remelt the solder joints to adjust the socket headers. (This is where flux can be nice.)
-   - Once the headers are straight, solder the remaining pins. I ususally go every other pin to avoid heat build up, then go back soldering the pins I skipped.
+   - Once the headers are straight, solder the remaining pins. I usually go every other pin to avoid heat build up, then go back soldering the pins I skipped.
    - If you used an Arduino Nano board to place the sockets, remove it now.
 
 5. U1 (DC DC Converter)
@@ -154,25 +154,25 @@ These steps go through soldering each component, starting with the shortest.
 7. J7 (ICSP Header)
    - Place the pin header.
    - Tack solder one pin. I like to solder one of the corners.
-     Be carful when soldeing this component; it has a lot of exposed metal that can burn you when heated by a soldering iron.
+     Be careful when soldering this component; it has a lot of exposed metal that can burn you when heated by a soldering iron.
    - Check that the part is straight and seated correctly.
    - Solder the remaining pins.
 
 8. J1, J2, J3, and J4 (Arduino UNO Interface)
-   - If you have a shield for the Arduino UNO, place the socket headers on its pins, then place the socket headr pins through the holes on the Nano2UNO circuit board.
+   - If you have a shield for the Arduino UNO, place the socket headers on its pins, then place the socket header pins through the holes on the Nano2UNO circuit board.
      This will make it easier and faster to install the sockets.
      If you don't have a shield you will likely need to install the sockets one at a time.
-   - Carfully flip the board over the board, holding the socket headers in place.
+   - Carefully flip the board over the board, holding the socket headers in place.
    - Tack solder the end pins of the socket headers.
    - Check that the socket headers are straight and seated correctly.
    - Once the headers are straight, solder the remaining pins.
    - If you used a shield, remove it now.
 
-9. Clean the flux off of the board.  
+9. Clean the flux off board  
    If all the flux you used to assemble the board, including the flux in the solder, is of the no-clean variety you can skip this step.  
-   I usually use water soluable flux. If you use a different kind of flux, the following methods may not work.
-   - Use isopropyl alcohol with a toothprush to remove the bulk of the flux.
-   - Clean the board with dish soap and warm water using the same toothbush.
-   - Dry the board thorougly. I like to use compressed air for this step.
+   I usually use water soluble flux. If you use a different kind of flux, the following methods may not work.
+   - Use isopropyl alcohol with a toothbrush to remove the bulk of the flux.
+   - Clean the board with dish soap and warm water using the same toothbrush.
+   - Dry the board thoroughly. I like to use compressed air for this step.
 
 
