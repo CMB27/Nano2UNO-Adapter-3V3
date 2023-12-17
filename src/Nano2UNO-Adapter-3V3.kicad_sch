@@ -6,8 +6,8 @@
 
   (title_block
     (title "Nano2UNO Adapter 3V3")
-    (date "2023-12-05")
-    (rev "0.0.1")
+    (date "2023-12-16")
+    (rev "1.0.0")
     (company "Designer: C. M. Bulliner")
     (comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
     (comment 3 "This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING")
