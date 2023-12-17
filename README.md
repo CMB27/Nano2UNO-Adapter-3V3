@@ -5,11 +5,9 @@ The Nano2UNO Adapter 3V3 is a circuit board to adapt 3.3V Arduino Nano boards th
 
 > [!NOTE]
 > This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-> [!NOTE]
+>
 > Pins A6 and A7 of the Arduino Nano are not connected because these pins are not present on the Arduino UNO interface.
-
-> [!NOTE]
+>
 > The VCC pin on the ICSP header is connected to 5V.
 
 > [!WARNING]
